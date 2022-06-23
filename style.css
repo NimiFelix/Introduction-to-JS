@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+body{
+    width: 100%;
+    height: 100%;
+    background-color:bisque
+}
+ 
+div{
+    width: 50%;
+    height: 50%;
+    padding:12px;
+    margin: 200px 200px;
+    border: 1px ;
+    border-radius: 8px;
+    box-shadow: 3px 5px 2px;
+    font-size: 28px;
+    background-color:rgb(252, 232, 207);
+    line-height:2;
+}
